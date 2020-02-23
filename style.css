@@ -1,0 +1,77 @@
+body{
+    background: #dddddd;
+}
+
+.carousel-indicators li {
+    width: 14px;
+    height: 14px;
+    border-radius: 14px;
+    background-color: rgba(245, 141, 141, 0.904);
+}
+.mb-5, .my-5 {
+    margin-bottom: 0rem!important;
+    position: relative;
+}
+.carousel-item{
+    top:-5px;
+}
+.navbar-bg-light {
+    background-color: #7a3333d2!important;
+
+}
+a {
+    color: #ffffff;
+    transition:all 0.3s ease ;
+    font-size: 20px;
+}
+a:hover{
+    color: rgba(165, 190, 107, 0.945);
+
+}
+.dropdown-menu {
+    background-color: #b38f8f;
+    left: -23px;
+    border: 1px solid rgb(211, 150, 171);
+}
+.underline {
+    width: 100px;
+    height: 2px;
+    background-color: orangered;
+    margin-left: 2px;
+}
+.card{
+    border: none;
+}
+.media img {
+    max-width: 120px;
+    height: auto;
+}
+
+.childItem{
+    width:22% ;
+}
+@media(max-width:730px){
+    .childItem{
+        width: 66%;
+    } 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
