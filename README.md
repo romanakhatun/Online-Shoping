@@ -19,4 +19,4 @@
 #### Bootstrap the world's most popular framework for building responsive, mobile frist sites with BootstrapCDN and a template starter page.
 
 ### Quick Start:
-#### You can quickly project add bootstrap.Use BootstrapCDN, provided for free by the folks at MaxCDN.Using a package manager or need to download the source files? #### [download bootstrap](https://getbootstrap.com/docs/4.0/getting-started/download/)
+#### You can quickly project add bootstrap.Use BootstrapCDN, provided for free by the folks at MaxCDN.Using a package manager or need to download the source files? [Head to the downloads page](https://getbootstrap.com/docs/4.0/getting-started/download/)
