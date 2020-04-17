@@ -17,6 +17,8 @@
                             
 # Let's Start Bootstrap4
 
+<img src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" />
+
 <br/>
 
 ## Introduction
@@ -44,7 +46,6 @@
 
 <br/>
 
-<img src="https://gumpyguy.files.wordpress.com/2019/07/boostrap-4.png?resize=334%2C334" />
 
-<img src="https://mpng.subpng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg" />
+
 
