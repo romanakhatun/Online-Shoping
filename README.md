@@ -11,7 +11,7 @@
 
 <br />
 
-### [Preview Project](https://romanakhatun.github.io/online-shoping/)
+### [Preview Project](https://romanakhatun.github.io/panda-commerce/)
 
   <br/>                          
                             
