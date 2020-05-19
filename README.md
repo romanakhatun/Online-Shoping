@@ -1,5 +1,5 @@
 # ONLINE SHOPING
-#### online shoping create with bootstrap
+#### online shoping create with HTML5 CSS3 and bootstrap
 
 <br />
 
